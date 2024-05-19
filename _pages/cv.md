@@ -11,54 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- [ ] **B.S.**
+**Xiamen University**, Malaysia Campus
+*Bachelor of Computer Science and Technology*
+*Sep. 2022 to Present*
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2024 COMAP’s Mathematical Contest in Modeling (MCM)** 
+  - Meritorious Winner
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Scholarship**
+  - Awarded a Distinction Award by Xiamen University Malaysia for the Academic Year 2022
+* **The competition of Artificial Intelligence Generated Content** 
+  - Meritorious Winner
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **The 2023 National English Translation Competition for College Student**
+  - Provincial First Prize in College English Group
+
+* **The 6th Chuanzhi Cup Programming Track**
+  - First Prize in Group A
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  **Programming Language**
+  Java,Python,C/CPP, SQL,Markdown,Latex
+
+  **Development tools**
+  Visual Studio Code,Jupyter,IDEA,Pycharm,Visual Studio 2022 
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  **Forecasting Tennis Player Matches Based on Machine Learning**
+
+  *First author, supported by Xiamen University Malaysia Research Fund (grant no.XMUMRF/2020-C6/IECE/0016).*
+  *Published at the MLIC 2024, organized by Xiamen University’s Lab for Intelligent Systems and Computing.*
+
+- **Data Processing and Analysis** 
+Utilized Python for complex data exploration including data cleaning, missing value handling with KNN, and feature engineering. Successfully applied logarithmic transformations and encoding conversions to optimize model input.
+- **Model Development** 
+Designed and implemented multiple machine learning prediction models, including **Logistic regression, XGBoost, and SVM.** Optimized these for unbalanced datasets, significantly enhancing model accuracy.
+- **Model Integration and Evaluation**
+Employed stacking and blending strategies to integrate outcomes from multiple models. - Validated model performance using **ROC curves and accuracy metrics, and conducted K-fold cross-validation** to test stability, enhancing accuracy on the validation set to over 80%.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
